@@ -3,7 +3,7 @@ import './navbar.css'
 
 export default class Navbar extends Component {
   render() {
-    return <div className='navbar'>
+    return <div className='de'>
 
 <p>denem</p>
 <p>deneme</p>

@@ -1,12 +1,14 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-
+import Cards from './components/Cards/Cards';
+import Navbar from './components/Navbar/Navbar';
+import Titel from './components/Header/Titel';
 function App() {
   return (
     <div className="App">
    
-    <Navbar/>
-   
+  <Navbar/>
+   <Titel/>
+   <Cards/>
     </div>
   );
 }

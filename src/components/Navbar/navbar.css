@@ -1,0 +1,16 @@
+.de{
+    background-color: rgb(211, 58, 58);
+    display: flex;
+    justify-content: center;
+}
+.de p {
+    text-decoration: none;
+    color: white;
+    padding: 24px 26px;
+    font-size: 1 rem;
+    font-family: 'Amatic SC',cursive;
+}
+p:hover{
+    background-color: aqua;
+    color:black
+}
